@@ -1,0 +1,6 @@
+{
+	"name":"Equal Experts PT Skins",
+	"author":"Equal Experts PT",
+	"description":"This mod contains skins from the EE-PT office.",
+	"category":"Character"
+}
