@@ -1,0 +1,6 @@
+{
+	"name":"Equal Experts Skins",
+	"author":"Equal Experts",
+	"description":"This mod contains skins for EE employees.",
+	"category":"Character"
+}
