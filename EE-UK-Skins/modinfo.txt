@@ -1,0 +1,6 @@
+{
+	"name":"Equal Experts UK Skins",
+	"author":"Equal Experts UK",
+	"description":"This mod contains skins from the EE-UK office.",
+	"category":"Character"
+}
